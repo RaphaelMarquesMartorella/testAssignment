@@ -10,55 +10,64 @@ export default function SectionOne() {
                 <h3 className="text-manrope text-center text-md sm:text-xl md:text-2xl lg:text-3xl">Lorem ipsum dolor sit amet, consectetur adipiscing.</h3>
             </div>
 
+            <div className="steps flex text-[12px] sm:flex-row justify-center sm:justify-around mt-5 sm:mt-10">
+                <div className="sm:flex flex-column items-center sm:mb-0">
+                    <div className="w-1/5 sm:w-1/2 md:w-1/4 lg:w-1/6 ml-[35px]">
+                        <Image
+                            className="object-cover w-full h-full"
+                            src='/checkSign.png'
+                            alt="checkSign"
+                            layout="responsive"
+                            width={30}
+                            height={30}
+                        />
+                    </div>
 
-            <div className="steps flex flex text-[12px] sm:flex-row justify-center sm:justify-around mt-5 sm:mt-10">
-                <div className="flex items-center mb-3 sm:mb-0">
-                    <Image
-                        className="flex w-auto max-h-[30px] sm:w-auto sm:max-h-[40px] md:w-auto md:max-h-[50px] lg:w-auto lg:max-h-[60px]"
-                        src='/checkSign.png'
-                        width={30}
-                        height={30}
-                        alt="checkSign"
-                    />
-
-                    <p className="font-manrope text-[9px] sm:text-md md:text-lg font-thin pl-2 sm:pl-5">Step 1: Cart Review</p>
+                    <p className="font-manrope text-[8px] sm:text-md md:text-lg font-thin pl-2 sm:pl-5">Step 1: Cart Review</p>
                 </div>
-                <div className="flex items-center mb-3 sm:mb-0">
-                    <Image
-                        className="flex w-auto max-h-[30px] sm:w-auto sm:max-h-[40px] md:w-auto md:max-h-[50px] lg:w-auto lg:max-h-[60px]"
-                        src='/checkSign.png'
-                        width={30}
-                        height={30}
-                        alt="checkSign"
-                    />
+                <div className="sm:flex flex-column items-center sm:mb-0">
+                    <div className="w-1/5 sm:w-1/2 md:w-1/4 lg:w-1/6 ml-[35px]">
+                        <Image
+                            className="object-cover w-full h-full"
+                            src='/checkSign.png'
+                            alt="checkSign"
+                            layout="responsive"
+                            width={30}
+                            height={30}
+                        />
+                    </div>
 
-                    <p className="font-manrope text-[9px] sm:text-md md:text-lg font-thin pl-2 sm:pl-5">Step 2: Checkout</p>
+                    <p className="font-manrope text-[8px] sm:text-md md:text-lg font-thin pl-2 sm:pl-5 mt-[2px]">Step 2: Checkout</p>
                 </div>
-                <div className="flex items-center mb-3 sm:mb-0">
-                    <Image
-                        className="flex w-auto max-h-[30px] sm:w-auto sm:max-h-[40px] md:w-auto md:max-h-[50px] lg:w-auto lg:max-h-[60px]"
-                        src='/3rdStep.png'
-                        width={30}
-                        height={30}
-                        alt="3rdStep"
-                    />
+                <div className="sm:flex flex-column items-center sm:mb-0">
+                    <div className="w-1/5 sm:w-1/2 md:w-1/4 lg:w-1/6 ml-[35px]">
+                        <Image
+                            className="object-cover w-full h-full"
+                            src='/3rdStep.png'
+                            alt="3rdStep"
+                            layout="responsive"
+                            width={30}
+                            height={30}
+                        />
+                    </div>
 
-                    <p className="font-manrope text-[9px] sm:text-md md:text-lg font-thin pl-2 sm:pl-5">Step 3: Special Offer</p>
+                    <p className="font-manrope text-[8px] sm:text-md md:text-lg font-thin pl-2 sm:pl-5">Step 3: Special Offer</p>
                 </div>
-                <div className="flex items-center">
-                    <Image
-                        className="flex w-auto max-h-[30px] sm:w-auto sm:max-h-[40px] md:w-auto md:max-h-[50px] lg:w-auto lg:max-h-[60px]"
-                        src='/4thStep.png'
-                        width={30}
-                        height={30}
-                        alt="4thStep"
-                    />
+                <div className="sm:flex flex-column items-center">
+                    <div className="w-1/5 sm:w-1/2 md:w-1/4 lg:w-1/6 ml-[35px]">
+                        <Image
+                            className="object-cover w-full h-full"
+                            src='/4thStep.png'
+                            alt="4thStep"
+                            layout="responsive"
+                            width={30}
+                            height={30}
+                        />
+                    </div>
 
-                    <p className="font-manrope text-[9px] sm:text-md md:text-lg font-thin pl-2 sm:pl-5">Step 4: Confirmation</p>
+                    <p className="font-manrope text-[8px] sm:text-md md:text-lg font-thin pl-2 sm:pl-5">Step 4: Confirmation</p>
                 </div>
             </div>
-
-
         </main>
     );
 }
