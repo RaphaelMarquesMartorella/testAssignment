@@ -38,8 +38,11 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 Screenshots:
 
 
-![Captura de Tela (5)](https://github.com/RaphaelMarquesMartorella/testAssignment/assets/118463534/7a9402c7-ef2c-4319-ba43-a9d74fa5a7c8)
+![Captura de Tela (4)](https://github.com/RaphaelMarquesMartorella/testAssignment/assets/118463534/eaeb7f81-1a2f-41be-9f96-bdd790c5906c)
 
+
+
+![Captura de Tela (5)](https://github.com/RaphaelMarquesMartorella/testAssignment/assets/118463534/7a9402c7-ef2c-4319-ba43-a9d74fa5a7c8)
 
 
 ![Captura de Tela (6)](https://github.com/RaphaelMarquesMartorella/testAssignment/assets/118463534/a80a0377-77d7-4fbf-90fb-459f9d36c771)
