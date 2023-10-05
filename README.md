@@ -1,6 +1,6 @@
 # Front-end with Responsivity Chalenge
 
-- ### Description: Front-end made with Next.Js, TypeScript and Tailwind, with full responsivy and faster render speed.
+- ### Description: Front-end made with Next.Js, TypeScript and Tailwind, with full responsivy and enhanced rendering speed.
 
 - ### Motivation: It was a chalenge from the company Clarifion, to do code the design made with Figma, and make it with responsivity for a screen with 360 pixel of width, I went further and added to screen with all sizes.
 
