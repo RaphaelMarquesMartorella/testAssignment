@@ -39,7 +39,7 @@ export default function SectionTwo() {
                 />
                 <ul className="mt-4 sm:mt-6 md:mt-3 lg:mt-5">
                 <li className="flex items-center lg:mt-5">
-                    <div className="w-1/4 sm:w-1/5 md:w-1/3 lg:w-1/2 xl:w-1/4   ">
+                    <div className="w-1/4 sm:w-1/5 md:w-1/3 lg:w-1/3 xl:w-1/4   ">
                         <Image
                             className="object-cover w-1/4 h-auto"
                             src='/tick-circle.png'
@@ -48,10 +48,10 @@ export default function SectionTwo() {
                             alt="tick-circle"
                         />
                         </div>
-                        <p className="ml-[-35px] sm:ml-[-38px] md:ml-[-33px] lg:ml-[-55px] xl:ml-[-86px] text-manrope text-xs sm:text-[13px] md:text-[10px] lg:text-[14px] xl:text-[19px] xl:leading-7 font-normal">Negative Ion Technology may <span className="font-bold text-[#2C7EF8]">help with allergens</span></p>
+                        <p className="ml-[-35px] sm:ml-[-38px] md:ml-[-33px] lg:ml-[-55px] xl:ml-[-76px] text-manrope text-xs sm:text-[13px] md:text-[10px] lg:text-[14px] xl:text-[19px] xl:leading-7 font-normal">Negative Ion Technology may <span className="font-bold text-[#2C7EF8]">help with allergens</span></p>
                     </li>
                     <li className="flex items-center sm:mt-1 lg:mt-5">
-                    <div className="w-1/4 sm:w-1/5 md:w-1/3 lg:w-1/2 xl:w-1/4">
+                    <div className="w-1/4 sm:w-1/5 md:w-1/3 lg:w-1/3 xl:w-1/4">
                         <Image
                             className="object-cover w-1/4 h-auto"
                             src='/tick-circle.png'
@@ -60,10 +60,10 @@ export default function SectionTwo() {
                             alt="tick-circle"
                         />
                         </div>
-                        <p className="ml-[-36px] sm:ml-[-39px] md:ml-[-35px] lg:ml-[-60px] xl:ml-[-86px] text-manrope text-xs sm:text-[13px] md:text-[10px] lg:text-[14px] xl:text-[19px] xl:leading-7 font-normal">Perfect for every room <span className="font-bold text-[#2C7EF8]">in all types of places.</span></p>
+                        <p className="ml-[-36px] sm:ml-[-39px] md:ml-[-35px] lg:ml-[-60px] xl:ml-[-76px] text-manrope text-xs sm:text-[13px] md:text-[10px] lg:text-[14px] xl:text-[19px] xl:leading-7 font-normal">Perfect for every room <span className="font-bold text-[#2C7EF8]">in all types of places.</span></p>
                     </li>
                     <li className="flex items-center sm:mt-1 lg:mt-5">
-                    <div className="w-1/4 sm:w-1/5 md:w-1/3 lg:w-1/2 xl:w-1/4">
+                    <div className="w-1/4 sm:w-1/5 md:w-1/3 lg:w-1/3 xl:w-1/4">
                         <Image
                             className="object-cover w-1/4 h-auto"
                             src='/tick-circle.png'
@@ -72,7 +72,7 @@ export default function SectionTwo() {
                             alt="tick-circle"
                         />
                         </div>
-                        <p className="ml-[-36px] sm:ml-[-38px] md:ml-[-33px] lg:ml-[-55px] xl:ml-[-85px] text-manrope text-xs sm:text-[13px] md:text-[10px] lg:text-[14px] xl:text-[19px] xl:leading-7 font-normal">Negative Ion Technology may <span className="font-bold text-[#2C7EF8]"> help with allergens</span></p>
+                        <p className="ml-[-36px] sm:ml-[-38px] md:ml-[-33px] lg:ml-[-55px] xl:ml-[-75px] text-manrope text-xs sm:text-[13px] md:text-[10px] lg:text-[14px] xl:text-[19px] xl:leading-7 font-normal">Negative Ion Technology may <span className="font-bold text-[#2C7EF8]"> help with allergens</span></p>
                     </li>
                 </ul>
                 <div className="coupon-area bg-[#EDF3FD] mt-4 md:mt-4 lg:mt-4 lg:mt-10 rounded-2xl flex">
@@ -111,7 +111,7 @@ export default function SectionTwo() {
                         height={50}
                     />
                     </div>
-                    <p className="text-manrope font-light ml-2 sm:ml-4 md:ml-6 lg:ml-8 text-[8px] xl:text-[16px] xl:leading-6 sm:text-[6px] sm:leading-3 md:leading-1 md:text-[8px] lg:leading-4 lg:text-[10px] xl:text-[17px] sm:text-base">If you are not completely thrilled with your Clarifion - We<br/> have a <span className="text-manrope font-semibold">30 day satisfaction guarantee.</span> Please refer to our<br/> return policy at the bottom of the page for more details.<br/> Happy Shopping!</p>
+                    <p className="text-manrope font-light ml-2 sm:ml-4 md:ml-6 lg:ml-8 text-[8px] xl:text-[16px] xl:leading-6 sm:text-[7px] sm:leading-4 md:leading-1 md:text-[9px] lg:leading-4 lg:text-[10px] xl:text-[16px] sm:text-base">If you are not completely thrilled with your Clarifion - We<br/> have a <span className="text-manrope font-semibold">30 day satisfaction guarantee.</span> Please refer to our<br/> return policy at the bottom of the page for more details.<br/> Happy Shopping!</p>
                 </div>
 
             </div>
