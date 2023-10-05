@@ -2,7 +2,7 @@
 
 - ### Description: Front-end made with Next.Js, TypeScript and Tailwind, with full responsivy and enhanced rendering speed.
 
-- ### Motivation: It was a challenge from the company Clarifion, to do code the design made with Figma, and make it with responsivity for a screen with 360 pixel of width, I went further and added to screen with all sizes.
+- ### Motivation: It was a challenge from the company Clarifion, to translate the figma design into code, and make it with responsivity for a screen with 360 pixel of width, I went further and added to screen of all sizes.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
